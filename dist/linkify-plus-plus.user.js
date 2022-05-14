@@ -3541,6 +3541,7 @@ class Linkifier extends Events {
 		link.href = result.url;
 		link.title = "Linkify Plus Plus";
 		link.className = "linkifyplus";
+    link.style.color = '#3ea6ff';
 		if (newTab) {
 			link.target = "_blank";
 		}
