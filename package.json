@@ -22,7 +22,7 @@
     "sync-version": "^1.0.1",
     "tiny-glob": "^0.2.9",
     "userscript-meta-cli": "^0.4.2",
-    "web-ext": "^6.6.0"
+    "web-ext": "^7.5.0"
   },
   "scripts": {
     "build": "sync-version src/static/manifest.json && shx rm -rf dist-extension/* && rollup -c && web-ext build",
