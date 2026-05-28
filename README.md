@@ -94,6 +94,10 @@ File an issue if you think a site should be added/removed from the list.
 Changelog
 ---------
 
+* 13.0.0 (May 28, 2026)
+
+  - Add: support replacement in custom rules.
+
 * 12.0.1 (Feb 21, 2025)
 
   - Fix: remove `strict_min_version` in Firefox extension.
